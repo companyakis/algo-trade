@@ -1,4 +1,4 @@
-# Algorithmic Trading and Python
+# Algorithmic Trading
 
 Financial Python: 
 https://github.com/companyakis/financial-python
