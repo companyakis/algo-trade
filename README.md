@@ -1,10 +1,10 @@
 # Algorithmic Trading
 
-PineScript Algo Trade (Ongoing):
-https://github.com/companyakis/pinescript
-
 Financial Python (Not Completed): 
 https://github.com/companyakis/financial-python
+
+Python before Algo Trade:
+https://github.com/companyakis/python-before-algo-trade
 
 Pandas: 
 https://github.com/companyakis/python-pandas
